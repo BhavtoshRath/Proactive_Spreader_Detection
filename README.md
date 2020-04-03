@@ -1,0 +1,1 @@
+This repo is the implementation of early fake news spreader detection in communities using GraphSAGE.
